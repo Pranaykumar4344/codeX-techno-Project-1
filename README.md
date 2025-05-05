@@ -16,7 +16,7 @@ You have two options:
 
 #### 📦 Setup:
 ```bash
-git clone https://github.com/Pranaykumar4344/.codeX-techno-Project-1git
+git clone https://github.com/Pranaykumar4344/.codeX-techno-Project-1.git
 cd codeX-techno-Project-1
 pip install -r requirements.txt
 streamlit run deploy1.py
